@@ -4,7 +4,7 @@ Welcome to our simple Tic-Tac-Toe website! This web application allows you to pl
 
 ## Demo
 
-You can check out a live demo of our Tic-Tac-Toe website [here](https://tictactoebyshreyas.web.app/).
+You can check out a live demo of our Tic-Tac-Toe website [here].
 
 ## Features
 
@@ -15,7 +15,7 @@ You can check out a live demo of our Tic-Tac-Toe website [here](https://tictacto
 
 ## How to Play
 
-1. Visit the website [here](https://tictactoebyshreyas.web.app/).
+1. Visit the website [here].
 
 2. Click on "Play Now" to start a new game.
 
